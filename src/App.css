@@ -1,0 +1,14 @@
+/* Center the form vertically and horizontally without scrolling */
+.centered-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 90vh;
+  overflow: hidden; /* Prevent scrolling */
+}
+
+.card-centered {
+  width: 100%;
+  max-width: 400px !important;
+  padding: 20px;
+}
