@@ -1,8 +1,4 @@
 # assignmentchaintech
- 
-
-Here's the data for your README.md:
-
 Account Management System
 This is a simple Account Management System built using React. The system allows users to view and update their profile information (name, email), change their password, and log out.
 
@@ -29,7 +25,7 @@ npm start
 Usage
 Register and Login: 
 
-Account Management:
+Account Management
 Edit your name and email.
 Change your password (ensure passwords match).
 Logout: Click "Logout" to log out and return to the login page.
